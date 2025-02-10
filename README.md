@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -43,7 +43,7 @@
     <p>Ты самая лучшая на свете!</p>
     <div class="heart">&#10084;&#10084;&#10084;</div>
     <div class="photos">
-        <img src="photo_2025-02-09_11-40-04.jpg".jpg" alt="Фото 1">
+        <img src="photo_2025-02-09_11-40-04.jpg" alt="Фото 1">
         <img src="photo_2025-02-09_15-30-05.jpg" alt="Фото 2">
         <img src="photo_2025-02-09_15-45-11.jpg" alt="Фото 3">
     </div>
